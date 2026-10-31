@@ -13,8 +13,8 @@ A console application developed for a university data-structures course. It uses
 The project targets `net5.0`. Use a compatible .NET SDK and runtime; .NET 5 is an older, unsupported target.
 
 ```bash
-git clone https://github.com/imhmdrz/DS-project-drugs.git
-cd DS-project-drugs
+git clone https://github.com/imhmdrz/drug-catalog-csharp.git
+cd drug-catalog-csharp
 dotnet run --project proj/proj/proj.csproj
 ```
 
